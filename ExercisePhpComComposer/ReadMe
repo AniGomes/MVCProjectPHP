@@ -1,0 +1,9 @@
+Comando que usei para atualizar o composer:
+
+composer self-update
+
+ve se tem problema pq instalei composer como root no pc e nao como anielle.
+
+*salvar o script.sql aki
+
+*Realizar unit test aki fazendo o mock dos objeto pdo, ver aula 18-11.

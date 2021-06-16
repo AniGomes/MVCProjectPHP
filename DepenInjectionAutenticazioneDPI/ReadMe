@@ -1,0 +1,5 @@
+
+Utilizzare la libreria PHP-DI per istanziare la classe diAutenticazione
+tramite Dependency Injection ContainerSuggerimento: scrivere un file di congurazione per passare i parametri 
+di connessione al MySQL per la classe PDOPHP-DI
+
